@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Petagram</string>
     <string name="card_view_textNombre">Nombre</string>
-    <string name="text_menu_about">About</string>
+    <string name="text_menu_about">Acerca de</string>
     <string name="text_menu_contacto">Contacto</string>
     <string name="text_menu_fav">Fav</string>
     <string name="text_input_nombre">Nombre:</string>
@@ -13,8 +13,8 @@
     <string name="text_view_acercaDeEncabezado">Acerca de...</string>
     <string name="text_view_acercaDeInformacion">Información del sistema</string>
     <string name="text_view_acercaDeVersion">Versión: 1.0</string>
-    <string name="text_view_acercaDeDesarrollador">Desarrollador: Miislyk</string>
-    <string name="text_cardViewMiMascota">KIRA</string>
+    <string name="text_view_acercaDeDesarrollador">Desarrollador: FernCuY</string>
+    <string name="text_cardViewMiMascota">BUKY</string>
 
 
 </resources>
